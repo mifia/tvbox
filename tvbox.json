@@ -40,7 +40,7 @@
 {"key":"csp_xbb_花猫TV","name":"🍀花猫TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/花猫TV.json"},
 {"key":"csp_xbb_创艺影视","name":"🍀创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/创艺影视.json"},
 {"key":"csp_xbb_骚火电影","name":"🍀骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/骚火电影.json"},
-{"key":"csp_app_2号币","name":"🍀2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+{"key":"csp_app_2号币","name":"🍀2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"}
 ],
 //解X设置
 "parses":[
