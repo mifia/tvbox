@@ -1,5 +1,6 @@
 //以下内容为互联网收集，只为自用……
 {
+"spider":"https://github.com/mifia/tvbox/blob/main/0723.jar",
 "sites": [
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
