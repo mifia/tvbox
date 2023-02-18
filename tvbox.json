@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用……
 {
 "sites":[
-{"key":"YQK_spider","name":"🍀一起看","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"csp_YQKAPP","name":"🍀一起看","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_Kuaikan","name":"🍀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys01","name":"🍀哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🍀奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
