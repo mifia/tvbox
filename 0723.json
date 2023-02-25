@@ -21,7 +21,7 @@
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/yinghua.json"},
 //
-{"key":"csp_xp_nmys","name":"🍀农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/nmys2.json"},
+{"key":"csp_xp_nmys","name":"🍀农民影视","type": 3,"api":"csp_XPathFilter","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/nmys2.json"},
 {"key":"csp_xp_gongreng","name":"🍀工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/gongreng.json"},
 {"key":"csp_xp_vip1280","name":"🍀VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/vip1280.json"},
 {"key":"csp_xp_lezhutv","name":"🍀乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/MeowXP/lezhutv.json"},
