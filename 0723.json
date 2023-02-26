@@ -1,6 +1,6 @@
 //自己用的
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/mifia/tvbox/main/0723.jar",
+"spider":"https://cdn.jsdelivr.net/gh/mifia/tvbox/0723.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
 
